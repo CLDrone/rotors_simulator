@@ -4,6 +4,9 @@
   <arg name="log_file" default="ardrone"/>
   <arg name="headless" default="false"/>
   <arg name="gui" default="true"/>
+  <arg name="x" default="65.0"/>
+  <arg name="y" default="-25.0"/>
+  <arg name="z" default="0.08"/>
 
   <env name="GAZEBO_MODEL_PATH" value="$(find rotors_gazebo)/models"/>
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
