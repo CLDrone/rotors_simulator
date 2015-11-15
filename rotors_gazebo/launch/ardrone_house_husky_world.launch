@@ -21,7 +21,7 @@
     </include>
   </group>
 
-
+  
   <arg name="laser_enabled" default="false"/>
   <arg name="ur5_enabled" default="false"/>
   <arg name="kinect_enabled" default="false"/>
