@@ -10,9 +10,9 @@
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
-  <library_images>
+  <sket>
     <image id="plywood256x256_jpg" name="plywood256x256_jpg">
-      <init_from>aruco-26_8cm.png</init_from>  <!--package://rrbot_description/apriltag-36h11-id-->
+      <init_from>apriltag_36h11_0.png</init_from>  <!--package://rrbot_description/apriltag-36h11-id-->
     </image>
   </library_images>
   <library_effects>
